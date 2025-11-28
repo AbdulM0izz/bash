@@ -12,3 +12,6 @@ then
      else
      echo "b is greater then a"
      fi
+
+     for i in {1..100} do echo $i; done
+     
